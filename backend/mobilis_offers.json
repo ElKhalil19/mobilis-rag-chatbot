@@ -1,0 +1,299 @@
+[
+    {
+        "type": "prepaid",
+        "title": "Sama Talk",
+        "price": "500DA/ 15 Days",
+        "features": [
+            "500 MB internet",
+            "Unlimited calls and SMS to Mobilis",
+            "2000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama Talk",
+        "price": "1000DA/ month",
+        "features": [
+            "2 GB internet",
+            "Unlimited calls and SMS to Mobilis",
+            "4000 DZD to : • other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama Talk",
+        "price": "1500DA/ month",
+        "features": [
+            "3 GB internet",
+            "Unlimited calls and SMS to Mobilis",
+            "6000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama Talk",
+        "price": "2000DA/ month",
+        "features": [
+            "4 GB internet",
+            "Unlimited calls and SMS to : • Mobilis",
+            "8000 DZD to other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "50DA/ 24H",
+        "features": [
+            "500 MB internet",
+            "Unlimited facebook calls and SMS to Mobilis",
+            "50 DZD to other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "100DA/ 24H",
+        "features": [
+            "1 GB internet",
+            "Unlimited facebook calls and SMS to Mobilis",
+            "200 DZD to • Other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "500DA/ 15 days",
+        "features": [
+            "5 GB internet",
+            "Unlimited facebook calls and SMS to Mobilis",
+            "1000 DZD to other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "1000DA/ month",
+        "features": [
+            "15 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to Mobilis",
+            "2000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "1500DA/ month",
+        "features": [
+            "30 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to Mobilis",
+            "3000 DZD to other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama mix",
+        "price": "2000DA/ month",
+        "features": [
+            "50 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to Mobilis",
+            "4000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama net",
+        "price": "30DA/ 24H",
+        "features": [
+            "300 MB internet",
+            "WhatsApp + Facebook"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama net",
+        "price": "500DA/ 15 month",
+        "features": [
+            "10 GB internet",
+            "100 DZD to all networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama net",
+        "price": "1000DA/ month",
+        "features": [
+            "30 GB internet",
+            "Unlimited facbook",
+            "200 DZD to all networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama net",
+        "price": "1500DA/ month",
+        "features": [
+            "60 GB internet",
+            "Unlimited facbook",
+            "300 DZD to all networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Sama net",
+        "price": "2000DA/ month",
+        "features": [
+            "90 GB internet",
+            "Unlimited facbook",
+            "400 DZD to all networks"
+        ]
+    },
+    {
+        "type": "prepaid",
+        "title": "Twenty",
+        "price": "2000DA/ month",
+        "features": [
+            "80 GB internet",
+            "Unlimited calls and SMS to All networks"
+        ]
+    },
+    {
+        "type": "postpaid",
+        "title": "Sama libre",
+        "price": "1300DA/ month",
+        "features": [
+            "18 GB internet",
+            "Unlimited facebook",
+            "• Unlimited calls and SMS to Mobilis • 6H to other networks"
+        ]
+    },
+    {
+        "type": "postpaid",
+        "title": "Sama libre",
+        "price": "1500DA/ month",
+        "features": [
+            "50 GB internet",
+            "Unlimited facebook",
+            "• Unlimited calls and SMS to Mobilis • 6H to other networks • 10 SMS to other networks"
+        ]
+    },
+    {
+        "type": "postpaid",
+        "title": "Sama libre",
+        "price": "2000DA/ month",
+        "features": [
+            "80 GB internet",
+            "Unlimited facebook",
+            "• Unlimited calls and SMS to Mobilis • 8H to other networks • 20 SMS to other networks"
+        ]
+    },
+    {
+        "type": "postpaid",
+        "title": "Sama libre",
+        "price": "3500DA/ month",
+        "features": [
+            "150 GB internet",
+            "• Unlimited calls and SMS to Mobilis • 12H to other networks • 30 SMS to other networks"
+        ]
+    },
+    {
+        "type": "control",
+        "title": "Sama control",
+        "price": "1300DA/ month",
+        "features": [
+            "15 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to : • Mobilis",
+            "3000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "control",
+        "title": "Sama control",
+        "price": "1500DA/ month",
+        "features": [
+            "50 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to Mobilis",
+            "3000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "control",
+        "title": "Sama control",
+        "price": "2000DA/ month",
+        "features": [
+            "80 GB internet",
+            "Unlimited facebook",
+            "Unlimited calls and SMS to Mobilis",
+            "4000 DZD to Other networks"
+        ]
+    },
+    {
+        "type": "control",
+        "title": "Sama control",
+        "price": "3500DA/ month",
+        "features": [
+            "150 GB internet",
+            "Unlimited calls and SMS to Mobilis",
+            "6000 DZD to : • Other networks"
+        ]
+    },
+    {
+        "type": "control",
+        "title": "Twenty Premium",
+        "price": "4000DA/ month",
+        "features": [
+            "200 GB internet",
+            "Unlimited calls and SMS To Mobilis and Other networks",
+            "2000 DZD for international calls"
+        ]
+    },
+    {
+        "type": "internet",
+        "title": "Internet Pass",
+        "price": "30DA/ 24H",
+        "features": [
+            "300 MB internet",
+            "Concerned offers • Sama Libre • Sama Control • Win Max Libre • Win Max Control • Beking • PixX WhatsApp + Facebook"
+        ]
+    },
+    {
+        "type": "internet",
+        "title": "Internet Pass",
+        "price": "100DA/ 24H",
+        "features": [
+            "1 GB internet",
+            "Concerned offers • Sama Libre • Sama Control • Win Max Libre • Win Max Control • Beking • PixX"
+        ]
+    },
+    {
+        "type": "internet",
+        "title": "Internet Pass",
+        "price": "500DA/ 7 Days",
+        "features": [
+            "4 GB internet",
+            "Concerned offers • Sama Libre • Sama Control • Win Max Libre • Win Max Control • Beking • PixX"
+        ]
+    },
+    {
+        "type": "internet",
+        "title": "Internet Pass",
+        "price": "1000DA/ month",
+        "features": [
+            "10 GB internet",
+            "Concerned offers • Sama Libre • Sama Control • Win Max Libre • Win Max Control • Beking • PixX"
+        ]
+    },
+    {
+        "type": "internet",
+        "title": "Internet Pass",
+        "price": "2000DA/ month",
+        "features": [
+            "25 GB internet",
+            "Concerned offers • Sama Libre • Sama Control • Win Max Libre • Win Max Control • Beking • PixX"
+        ]
+    }
+]
