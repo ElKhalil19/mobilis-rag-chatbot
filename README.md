@@ -7,7 +7,7 @@ with a **Next.js + TailwindCSS frontend** that provides a clean, responsive chat
 The chatbot answers user queries about Mobilis services (FAQ, offers) by retrieving relevant  
 information from structured JSON data and generating natural language responses.  
 
-![Mobilis Chatbot Screenshot](./public/screenshot.png)
+![Mobilis Chatbot Screenshot](./public/Screenshot.png)
 
 ## Features
 - Chat interface built with **Next.js + TailwindCSS**.
